@@ -1,0 +1,13 @@
+{
+    "name": "Trall",
+    "version": "0.0.1",
+    "description": "A TenX profit calculator",
+    "main": "index.js",
+    "repository": "https://github.com/Skretch/Trall.git",
+    "author": "Skretch12",
+    "license": "MIT",
+    "dependencies": {
+        "bootstrap": "^3.3.7",
+        "font-awesome": "^4.7.0"
+    }
+}
